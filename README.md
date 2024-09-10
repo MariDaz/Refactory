@@ -1,3 +1,35 @@
+<pre>
+
+    <p align=center>
+
+Tecnológico Nacional de México
+Instituto Tecnológico de Tijuana
+
+Departamento de Sistemas y Computación
+Ingeniería en Sistemas Computacionales
+
+Semestre:
+Agosto - Diciembre 2024
+
+Materia:
+Patrones y Diseño
+
+Docente:
+M.C. Rene Solis Reyes 
+
+Unidad:
+1
+
+Título del trabajo:
+Exposición Refactory
+
+Estudiante:
+Marquez Santillan Jose Eduardo 21210395
+Díaz Berumen María de los Ángeñes 21210368
+
+    </p>
+
+</pre>
 # Refactory
 ## ¿Qué es refactory?
 Refactoring es un proceso sistemático de mejora del código.Esto se hace sin crear una nueva funcionalidad que pueda transformar un desastre en cóigo limpio y diseño simple.
