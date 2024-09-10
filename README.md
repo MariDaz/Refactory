@@ -68,11 +68,17 @@ Estas son algunas de las características del Código Limpio:
 
 
 # Proceso de refactorización
+
+<img src="https://www.ionos.mx/digitalguide/fileadmin/_processed_/f/7/csm_refactoring-t_790e2e53f4.webp" width="300">
+
 La refactorización consiste en realizar pequeños cambios para mejorar el código sin alterar su funcionalidad. Sabes que no se ha implementado correctamente cuando el código sigue siendo problemático después del proceso. En estos casos, puede ser necesario reescribir partes del código, siempre y cuando se disponga de pruebas y tiempo suficiente. Es importante no mezclar la refactorización con la implementación de nuevas funcionalidades. Después de refactorizar, las pruebas existentes deben aprobarse; de lo contrario, podrían haber errores en la refactorización o pruebas mal diseñadas.
 
-<img src="https://cdn.iowacomputergurus.com/blog/the-hidden-security-risks-of-dirty-website-code.jpeg" width="200">
+
 
 # Code Smells o el codigo huele mal
+
+<img src="https://www.alpharithms.com/wp-content/uploads/696/code-smell-overcoded.jpg" width="300">
+
 
 ### Hinchazones: Se refiere a métodos o clases demasiado grandes que complican el trabajo.
 - Método largo
@@ -107,7 +113,10 @@ La refactorización consiste en realizar pequeños cambios para mejorar el códi
 - Cadenas de mensajes
 - Hombre intermedio
 
+
 # Técnicas de refactorización
+
+<img src="https://xurxodev.com/content/images/2022/11/beneficios-refactoring.png" width="300">
 
 ### Métodos de composición: Consiste en simplificar métodos y eliminar duplicación de código.
 - Método de extracción
@@ -156,3 +165,5 @@ La refactorización consiste en realizar pequeños cambios para mejorar el códi
 - Método de empujar hacia abajo
 - Campo de empuje hacia abajo
 - Contraer jerarquía
+
+
