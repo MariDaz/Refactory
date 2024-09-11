@@ -25,11 +25,12 @@ Exposición Refactory
 
 Estudiante:
 Marquez Santillan Jose Eduardo 21210395
-Díaz Berumen María de los Ángeñes 21210368
+Díaz Berumen María de los Ángeles 21210368
 
     </p>
 
 </pre>
+
 # Refactory
 ## ¿Qué es refactory?
 Refactoring es un proceso sistemático de mejora del código.Esto se hace sin crear una nueva funcionalidad que pueda transformar un desastre en cóigo limpio y diseño simple.
